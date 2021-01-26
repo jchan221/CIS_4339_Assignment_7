@@ -1,0 +1,43 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgb(141, 21, 21);
+}
+
+li {
+  float: left;
+}
+
+li a {
+  font-family: Arial;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+img {
+  float: left;
+  width: 250px;
+  height: 250px;
+}
+table, td {
+  float: center;
+  border: 1px solid rgb(141, 21, 21);
+}
+th {
+  float: center;
+  border: 1px solid rgb(141, 21, 21);
+  background-color: gold;
+  
+}
+body {
+  background-image: url("asia.png") ;
+  background-repeat: no-repeat ;
+  background-size: cover;
+
+
+
+}
